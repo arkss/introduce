@@ -90,4 +90,4 @@
     * **소모임 대표**
   * 주 1~2 회 정도
 
-![introduce_image](/Users/rkdalstjd9/Desktop/introduce/img/introduce.jpeg)
+![introduce_image](.img/introduce.jpeg)
