@@ -54,6 +54,9 @@
        * 아무 의욕이없는 상태
 
        * 속세에서 떠나 불교에 입문하기로 결심
+       
+       (https://github.com/arkss/introduce/blob/master/img/ending/End1.PNG).
+      
 
     * 탈모 연구원이 되어...
 
