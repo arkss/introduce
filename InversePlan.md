@@ -37,8 +37,13 @@
 
    - 활동
 
-     - 하단부에 위치, 1X6 로 활동을 나타냄
-     - 6가지의 활동을 통해서 주인공의 상태에 변화를 줌 
+     * 하단부에 위치, 1X6 로 활동을 나타냄
+     * 6가지의 활동을 통해서 주인공의 상태에 변화를 줌 
+
+   - 사진
+
+     * (https://github.com/arkss/introduce/tree/master/img/main_UI/main.png).
+
 
 
 
