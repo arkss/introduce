@@ -139,8 +139,9 @@
 
   *   아이템마다 효과가 다름
   *   각 활동 게이지를 채우면 아이템 잠금 해제
-
-*  상태의 최적치가 존재
+* 상태의 최적치가 존재
+* 각 활동 별 상태 변화표
+  - https://github.com/arkss/introduce/blob/2015540001_subject1/activity.md
 
 
 5. **컬렉션**
