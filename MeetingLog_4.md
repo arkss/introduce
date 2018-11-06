@@ -23,9 +23,8 @@
         * 그 외 요소들에 대한 분석
           * 고다현, 장형석
    2. md 파일 작성
-
-        - 각자 맡은 부분에 대한 내용 md 파일로 작성 후 commit
-        - 최종적으로 systemic analysis.md 작성
+      - 각자 맡은 부분에 대한 내용 md 파일로 작성 후 commit
+      - 최종적으로 systemic analysis.md 작성
 
 
 
