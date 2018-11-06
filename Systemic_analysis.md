@@ -9,7 +9,7 @@
 
 ### 활동 
 
-
+![doing image](https://github.com/arkss/introduce/blob/2015930006_subject1/%ED%83%88%EB%AA%A8%ED%83%88%EC%B6%9C%20%ED%99%9C%EB%91%A5%20%EC%8B%9C%EC%8A%A4%ED%85%9C%20%EB%B6%84%EC%84%9D%20%EC%88%9C%EC%84%9C%EB%8F%84.jpg)
 
 
  
