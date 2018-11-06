@@ -16,7 +16,7 @@
         * 순서도란?
           * 컴퓨터로 처리하고자 하는 문제를 분석하여 그 처리 순서를 단계화하여 상호간의 관계를 약속된 기호와 흐름선을 사용하여 알기 쉽게 나타낸 그림.
         * 순서도 작성법
-          * ![순서도 작성법]([https://github.com/arkss/introduce/blob/2015540001_subject1/img/flowchart.jpeg])*
+          * ![순서도 작성법](https://github.com/arkss/introduce/blob/2015540001_subject1/img/flowchart.jpeg)
       - draw.io 를 이용하여 '탈모 탈출'  게임에 대한 순서도 작성
         * 활동 및 상태에 대한 분석
           * 강민성, 김의중, 신원균
