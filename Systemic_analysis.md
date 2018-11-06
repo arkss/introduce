@@ -8,8 +8,18 @@
 
 
 ### 활동 외
+ https://github.com/arkss/introduce/blob/2015540001_subject1/img/classfication_UI.png
+ (위 링크는 1번UI와 2번UI가 어떤것인지에 대한 사진 링크입니다.)
+
+ * 1번 UI
+ 
+ ![ui1](https://github.com/arkss/introduce/blob/2018920002_subject/img/Untitled%20Diagrjjam.png)
+ 
+ 
+ * 2번 UI
 
 
+![2ui](https://github.com/arkss/introduce/blob/2018920002_subject/img/Untitled%20Diagrjjadfsdfm.png)
 
 ### 활동 
 
