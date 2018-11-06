@@ -2,7 +2,7 @@
 ======================
 
 ## 게임 진행 순서
-!(https://github.com/arkss/introduce/blob/2015540001_subject1/img/start.png)
+![start image](https://github.com/arkss/introduce/blob/2015540001_subject1/img/start.png)
 
 ### 활동 외
 
