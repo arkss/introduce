@@ -47,8 +47,13 @@
 
 
 5. 황금카드
+
    * 앞면
+
      * 각 황금카드 별 상세 내용을 명시(수작업)
+
    * 뒷면
-     * 황금카드 이미지로 인쇄
-     * 황금카드 이미지
+
+     * 황금열쇠카드 이미지로 인쇄
+
+     * **![황금열쇠카드](https://github.com/arkss/introduce/blob/2015540001_subject1/img/GoldenKeImage.jpeg)**
