@@ -25,7 +25,7 @@
    * https://github.com/arkss/introduce/blob/2015540001_subject1/img/GameBoard.png
 6. 모서리 칸
    * 특별한 역할을 하는 보드게임 모서리 칸들에 대한 설명
-   * https://github.com/arkss/introduce/blob/origin/2012920048_subject1/%EC%9E%A5%ED%98%95%EC%84%9D%20%EB%AA%A8%EC%84%9C%EB%A6%AC%EC%B9%B8
+   * https://github.com/arkss/introduce/blob/origin/2012920048_subject1/moseri.md
 
 7. 활동 별 상태 변화
    * 각 캐릭터 별 보드판 별로의 상태변화
