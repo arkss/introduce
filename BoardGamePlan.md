@@ -32,7 +32,7 @@
    * https://github.com/arkss/introduce/blob/2015540001_subject1/img/StatusForActivity.png
 8. 황금열쇠
    * 20장의 황금 열쇠
-   * https://github.com/arkss/introduce/blob/2015930006_subject1/%ED%99%A9%EA%B8%88%EC%97%B4%EC%87%A0
+   * https://github.com/arkss/introduce/blob/2015930006_subject1/%ED%99%A9%EA%B8%88%EC%97%B4%EC%87%A0.md
 9. 돈 
    * 게임 내에서 돈의 사용과 획득 방법
    * https://github.com/arkss/introduce/blob/2018920002_subject/money.md
