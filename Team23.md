@@ -23,7 +23,7 @@ https://github.com/arkss/introduce/blob/master/%EC%B0%BD%EC%9D%98%EA%B3%B5%ED%95
 
 
 
-4 . 동영상
+4 . 동영상 <br>
 https://drive.google.com/open?id=10bYgkpIwqokwxx0XJHGQ-1oJRL98D0CS <br>
 https://drive.google.com/open?id=1pLvnNwRfVO-pjZv-4OScQa4Axf7t1bHt <br>
 (렌더링 문제로 2개로 )
