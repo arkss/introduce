@@ -24,4 +24,6 @@ https://github.com/arkss/introduce/blob/master/%EC%B0%BD%EC%9D%98%EA%B3%B5%ED%95
 
 
 4 . 동영상
-https://www.dropbox.com/home/2%ED%95%99%EB%85%84%202%ED%95%99%EA%B8%B0/%EC%B0%BD%EC%9D%98%EA%B3%B5%ED%95%99%EA%B8%B0%EC%B4%88%EC%84%A4%EA%B3%84/1%EC%A1%B0%20Team%2023%20%EB%B0%9C%ED%91%9C%20%EC%98%81%EC%83%81
+https://drive.google.com/open?id=10bYgkpIwqokwxx0XJHGQ-1oJRL98D0CS
+https://drive.google.com/open?id=1pLvnNwRfVO-pjZv-4OScQa4Axf7t1bHt
+(렌더링 문제로 2개로 )
